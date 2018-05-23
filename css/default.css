@@ -16,7 +16,7 @@ body { min-width:1070px}
 	color:#fff;
 }
 .r-green{
-	background:#36a743;
+	background:#74bf44;
 }
 .r-orange{
 	background:#ff9a00;
@@ -215,6 +215,7 @@ a.rss{
 	font-size:0;
 	line-height:32px;
 	margin:0;
+	text-transform: uppercase;
 }
 #all_products .filter ul.service-menu li a{
 	padding:0 5px;
@@ -288,10 +289,11 @@ a.rss{
 	z-index:10;
 }
 #main_menu ul{
+	box-sizing: border-box;
 	list-style-type:none;
-	max-width:1025px;
+	max-width:1080px;
 	margin:0 auto;
-	padding:0 0 0 195px;
+	padding:0 0 0 140px;
 	overflow:hidden;
 }
 #main_menu ul li{
@@ -299,6 +301,15 @@ a.rss{
 	padding:0;
 	float:left;
 }
+
+#main_menu ul li:last-child a {
+	padding-right: 0;
+}
+
+#main_menu ul li:first-child a {
+	padding-left: 0;
+}
+
 #main_menu ul li.active{
 	background:#2c8d38;
 	text-shadow:#25752f 1px 1px 1px;
@@ -308,7 +319,7 @@ a.rss{
 	position:relative;
 	color:#fff;
 	text-decoration:none;
-	padding:10px 14px;
+	padding:10px 17px;
 }
 #main_menu ul li a:hover{
 	color:#e1f2c2;
@@ -643,7 +654,7 @@ a.rss{
 }
 
 #content{
-	padding-bottom:385px;
+	padding-bottom:382px;
 }
 
 #content .b-info{
@@ -763,7 +774,10 @@ a.rss{
 	-moz-box-shadow: 0 1px 4px 0 #d3d3d3;
 	-webkit-box-shadow: 0 1px 4px 0 #d3d3d3;
 	box-shadow: 0 1px 4px 0 #d3d3d3;
+	min-height: 371px;
+	box-sizing: border-box;
 }
+
 .news-list .item{
 	margin:0 0 15px 0;
 	overflow:hidden;
@@ -831,6 +845,8 @@ p.all a:hover{
 	float:right;
 	position:relative;
 	padding:0 10px;
+	top: -18px;
+	right: -13px;
 }
 #bf-about .map img{
 	position:relative;
@@ -840,9 +856,9 @@ p.all a:hover{
 	position:absolute;
 	width:168px;
 	height:138px;
-	left:270px;
+	left:289px;
 	top:45px;
-	padding:60px 15px 0 15px;
+	padding:66px 15px 0 15px;
 	text-align:center;
 	color:#fff;
 	text-decoration:none;
@@ -877,7 +893,7 @@ p.all a:hover{
 	overflow:hidden;
 }
 #footer .b-center{
-	padding-top: 20px;
+	padding-top: 9px;
 	max-width: 1080px;
     min-width: 960px;
 	background:#fff;
@@ -896,7 +912,7 @@ p.all a:hover{
 	padding:0 0 9px;
 }
 #footer .social{
-	width:270px;
+	width:308px;
 	float:right;
 	margin-top: 14px;
 }
@@ -965,7 +981,7 @@ p.all a:hover{
 	overflow:hidden;
 }
 .b-subscribe input[type="text"], .b-subscribe input[type="email"]{
-	width:145px;
+	width:178px;
 	float:left;
 	border:1px solid #f9f8f6;
 	border-left:1px solid #c5c4c3;
@@ -974,14 +990,14 @@ p.all a:hover{
 	padding:9px 10px;
 }
 .b-subscribe input[type="submit"]{
-	width:90px;
+	/*width:90px;*/
 	float:right;
-	font:12px 'BlissProExtraLight';
+	font: 10px 'Arial', sans-serif;
 	border:0;
-	cursor:default;
-	padding:9px 0;
+	padding:8px 10px;
 	text-align:center;
 	cursor:pointer;
+	text-transform: uppercase;
 }
 .b-subscribe input[type="submit"]:hover{
 	background:#9dd334;
@@ -1010,7 +1026,7 @@ p.all a:hover{
 }
 #footer .contacts ul li.all ul li{
 	float:left;
-	margin-left:30px;
+	margin-left:15px;
 }
 #footer .contacts ul li.all ul li:first-child{
 	margin:0;
@@ -2954,12 +2970,12 @@ color: inherit;
     opacity: 0.9;
 }
 .map .city.spb {
-    top: 113px;
+    top: 120px;
     font-size: 11px;
     left: 60px;
 }
 .map .city.msk {
-    top: 138px;
+    top: 147px;
     left: 121px;
     font-size: 11px;
 }
@@ -2989,7 +3005,7 @@ color: inherit;
 }
 .map .city.nov {
     font-size: 9px;
-    top: 194px;
+    top: 196px;
     left: 205px;
     letter-spacing: 0px;
     height: 13px;
@@ -3073,7 +3089,7 @@ color: inherit;
 	padding:27px 33px;
 	border-radius: 6px;
 	background-color: #74bf44;
-	min-height: 360px;
+	min-height: 364px;
 }
 #bf-about.onmain h3{
 	color:#fff;
@@ -3081,6 +3097,7 @@ color: inherit;
 	line-height:120%;
 	text-transform:uppercase;
 	letter-spacing:-1px;
+	margin-bottom: 15px;
 }
 #bf-about.onmain h4{
 	color:#fff;
@@ -3101,11 +3118,11 @@ color: inherit;
 	font-size: 12px;
 }
 .onmain .map .city.spb { left: 50px; }
-.onmain .map .city.msk { left: 111px; }
+.onmain .map .city.msk { left: 115px; }
 .onmain .map .city.krs { left: 43px; }
 .onmain .map .city.uln { left: 100px; }
 .onmain .map .city.per { left: 166px; }
-.onmain .map .city.nov { left: 195px; }
+.onmain .map .city.nov { left: 204px; }
 
 .spb_plant,
 .tumen_plant,

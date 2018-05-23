@@ -1,6 +1,6 @@
 .main-banner {
     width: 705px;
-    height: 430px;
+    height: 424px;
     border-radius: 10px;
     background: url(../images/new-image/main-banner.jpg) 50% 50% no-repeat;
     -webkit-background-size: cover;
@@ -92,7 +92,7 @@
 
 .main-info__item {
     color: #ffffff;
-    padding: 23px 0;
+    padding: 18px 0;
     border-bottom: 1px dashed #fff;
     text-align: center;
     display: table;
@@ -195,7 +195,7 @@
 
 .c-social {
     font-size: 0;
-    margin-top: 7px;
+    margin-top: 10px;
 
 }
 
@@ -339,4 +339,26 @@
 .onload #product-slider-content,
 .onload .b-photos .royalSlider {
     display: block;
+}
+
+
+/*menu footer*/
+#footer .menu > ul > li:nth-child(1) {
+    width: 10%;
+}
+
+#footer .menu > ul > li:nth-child(2) {
+    width: 22%;
+}
+
+#footer .menu > ul > li:nth-child(3) {
+    width: 17%;
+}
+
+#footer .menu > ul > li:nth-child(4) {
+    width: 19%;
+}
+
+#footer .menu > ul > li:nth-child(5) {
+    width: 14%;
 }
