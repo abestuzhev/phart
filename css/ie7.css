@@ -1,0 +1,13 @@
+#main_menu ul li a{
+	display:inline;
+	white-space:nowrap;
+}
+.b-causes ul.view li{
+	display:inline;
+}
+.feedback-cooperation input[type="submit"]{
+	overflow:visible;
+}
+#partner-content .item{
+	display:inline;
+}

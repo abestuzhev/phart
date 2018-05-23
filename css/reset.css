@@ -1,0 +1,82 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, em, img, strong, sub, sup, b, u, i, dl, dt, dd, ol, li, form, label, table, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+	background: transparent;
+}
+ul:not(.ul_for_sitemap){
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+	background: transparent;
+}
+ul, ol, li { list-style:none}
+html { 
+	font-size: 100.01%;
+	height:100%;
+}
+body {
+	height:100%;
+	line-height: 1;
+	background:#fff;
+	color: #5f5f5f;
+	text-align: left;
+	font: 11px/14px Arial, sans-serif;
+}
+:focus {
+	outline: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 100%;
+}
+a {
+	color: #8fa0ca;
+}
+a:visited{
+	color: #8fa0ca;
+}
+a:hover{
+	text-decoration:underline;
+	text-decoration: none;
+}
+
+/* FONTS */
+@font-face {
+    font-family: 'BlissProExtraLight';
+    src: url('../fonts/blisspro-extralight-wf.eot');
+    src: url('../fonts/blisspro-extralight-wf.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blisspro-extralight-wf.woff') format('woff'),
+         url('../fonts/blisspro-extralight-wf.ttf') format('truetype'),
+         url('../fonts/blisspro-extralight-wf.svg#BlissProExtraLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BlissProRegular';
+    src: url('../fonts/blisspro-regular-wf.eot');
+    src: url('../fonts/blisspro-regular-wf.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blisspro-regular-wf.woff') format('woff'),
+         url('../fonts/blisspro-regular-wf.ttf') format('truetype'),
+         url('../fonts/blisspro-regular-wf.svg#BlissProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BlissProBold';
+    src: url('../fonts/blisspro-bold-wf.eot');
+    src: url('../fonts/blisspro-bold-wf.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blisspro-bold-wf.woff') format('woff'),
+         url('../fonts/blisspro-bold-wf.ttf') format('truetype'),
+         url('../fonts/blisspro-bold-wf.svg#BlissProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.pre-links{margin-top: 20px; margin-bottom: 20px;}
+.pre-links p{font-size: 16px; font-weight: bold;}
+.pre-links li{list-style-type: circle; margin-left: 30px;}
