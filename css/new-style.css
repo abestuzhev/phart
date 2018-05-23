@@ -157,6 +157,10 @@
     padding: 9px;
 }
 
+.main-question a {
+    text-decoration: none;
+}
+
 .main-question__img {
     display: table-cell;
     position: relative;
