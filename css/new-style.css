@@ -288,6 +288,10 @@
     vertical-align: middle;
 }
 
+..c-download__btn:hover {
+    opacity: .9;
+}
+
 
 /*.icon-pdf {*/
     /*display: inline-block;*/

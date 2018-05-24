@@ -16,8 +16,13 @@ body { min-width:1070px}
 	color:#fff;
 }
 .r-green{
-	background:#74bf44;
+	 background:#74bf44;
+ }
+
+.r-green:hover {
+	opacity: .9;
 }
+
 .r-orange{
 	background:#ff9a00;
 }
@@ -825,7 +830,8 @@ a.rss{
 	text-shadow: 0 1px 2px rgba(0,0,0,.2);
 }
 p.all a:hover{
-	background-color:#9dd334;
+	/*background-color:#9dd334;*/
+	opacity: .9;
 }
 .adv{
 	overflow:hidden;
@@ -1000,7 +1006,8 @@ p.all a:hover{
 	text-transform: uppercase;
 }
 .b-subscribe input[type="submit"]:hover{
-	background:#9dd334;
+	/*background:#9dd334;*/
+	opacity: .9;
 }
 
 #footer .contacts{
