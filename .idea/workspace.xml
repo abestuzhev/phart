@@ -13,11 +13,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.61665606">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/home.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="14688">
-                  <caret line="864" column="50" selection-start-line="864" selection-start-column="50" selection-end-line="864" selection-end-column="50" />
+                <state relative-caret-position="170">
+                  <caret line="873" column="20" lean-forward="true" selection-start-line="873" selection-start-column="20" selection-end-line="873" selection-end-column="20" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#div#0;n#FORM#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,7 +33,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="production.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="production.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/production.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="648">
@@ -97,8 +97,8 @@
           <file leaf-file-name="new-style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/new-style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="366">
-                  <caret line="518" column="8" selection-start-line="518" selection-start-column="8" selection-end-line="518" selection-end-column="8" />
+                <state relative-caret-position="383">
+                  <caret line="405" column="20" selection-start-line="405" selection-start-column="14" selection-end-line="405" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -165,8 +165,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/js/new-main.js" />
-        <option value="$PROJECT_DIR$/css/new-style.css" />
         <option value="$PROJECT_DIR$/production.html" />
+        <option value="$PROJECT_DIR$/css/new-style.css" />
       </list>
     </option>
   </component>
@@ -249,12 +249,12 @@
       <workItem from="1527062382288" duration="15025000" />
       <workItem from="1527141686803" duration="5647000" />
       <workItem from="1527160700568" duration="9380000" />
-      <workItem from="1527170851082" duration="715000" />
+      <workItem from="1527170851082" duration="923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44131000" />
+    <option name="totallyTimeSpent" value="44339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -602,35 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14688">
-          <caret line="864" column="50" selection-start-line="864" selection-start-column="50" selection-end-line="864" selection-end-column="50" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#FORM#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/new-main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/new-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="518" column="8" selection-start-line="518" selection-start-column="8" selection-end-line="518" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -651,6 +626,31 @@
             <element signature="n#style#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="873" column="20" lean-forward="true" selection-start-line="873" selection-start-column="20" selection-end-line="873" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#FORM#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#p#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/new-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="405" column="20" selection-start-line="405" selection-start-column="14" selection-end-line="405" selection-end-column="20" />
         </state>
       </provider>
     </entry>
