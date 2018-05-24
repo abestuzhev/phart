@@ -1031,7 +1031,8 @@ p.all a:hover{
 #footer .contacts ul li.all ul li:first-child{
 	margin:0;
 }
-#footer .contacts ul li.all ul li p.title{
+#footer .contacts ul li.all ul li p.title,
+#footer .contacts ul li.main ul li p.title {
 	border:0;
 	margin:0;
 	padding-bottom: 0px;

@@ -582,6 +582,10 @@
     min-height: 454px;
 }
 
+.production-list__item a {
+    text-decoration: none;
+}
+
 .production-card {
     box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
