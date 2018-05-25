@@ -875,9 +875,11 @@ p.all a:hover{
 }
 #bf-about .info{
 	overflow:hidden;
+	color: #fff;
 }
 #bf-about p{
 	margin:0 0 20px 0;
+	color: #fff;
 }
 #bf-about p.title{
 	font:20px 'BlissProRegular';
