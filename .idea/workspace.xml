@@ -61,8 +61,14 @@
           <file leaf-file-name="default.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/default.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="881" column="16" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
+                <state relative-caret-position="498">
+                  <caret line="999" column="17" selection-start-line="999" selection-start-column="17" selection-end-line="999" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#4982#7363#1" expanded="true" />
+                    <element signature="e#7437#9778#2" expanded="true" />
+                    <element signature="e#93084#94561#2" expanded="true" />
+                    <element signature="e#96047#97412#1" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -232,12 +238,12 @@
       <workItem from="1527141686803" duration="5647000" />
       <workItem from="1527160700568" duration="9380000" />
       <workItem from="1527170851082" duration="3039000" />
-      <workItem from="1527230801247" duration="869000" />
+      <workItem from="1527230801247" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47324000" />
+    <option name="totallyTimeSpent" value="47933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -316,6 +322,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17153">
           <caret line="1009" column="16" lean-forward="true" selection-start-line="1009" selection-start-column="16" selection-end-line="1009" selection-end-column="16" />
+          <folding>
+            <element signature="e#4982#7363#1" expanded="true" />
+            <element signature="e#7437#9778#2" expanded="true" />
+            <element signature="e#93084#94561#2" expanded="true" />
+            <element signature="e#96047#97412#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -729,8 +741,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="881" column="16" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
+        <state relative-caret-position="498">
+          <caret line="999" column="17" selection-start-line="999" selection-start-column="17" selection-end-line="999" selection-end-column="17" />
+          <folding>
+            <element signature="e#4982#7363#1" expanded="true" />
+            <element signature="e#7437#9778#2" expanded="true" />
+            <element signature="e#93084#94561#2" expanded="true" />
+            <element signature="e#96047#97412#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
