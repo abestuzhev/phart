@@ -38,9 +38,9 @@ table {
 a {
 	color: #8fa0ca;
 }
-a:visited{
-	color: #8fa0ca;
-}
+/*a:visited{*/
+	/*color: #8fa0ca;*/
+/*}*/
 a:hover{
 	text-decoration:underline;
 	text-decoration: none;
