@@ -434,12 +434,6 @@
     border: none;
 }
 
-.nav-list__item:hover {
-    background-color: #74bf44;
-}
-.nav-list__item:hover a {
-    color: #ffffff;
-}
 
 .nav-list__link {
     font-size: 13px;
@@ -447,11 +441,39 @@
     padding: 14px 12px;
     color: #3b3c40;
     text-decoration: none;
+}
+
+.nav-list__link:hover {
+    background-color: #74bf44;
+    color: #ffffff;
+}
+
+
+.nav-list__link.active {
+    background-color: #74bf44;
+    color: #ffffff;
+}
+
+
+ul.nav-sublist {
+    padding: 13px 22px 8px;
+}
+
+.nav-sublist__item {
 
 }
 
-.nav-list__link:visited {
+.nav-sublist__link {
     color: #3b3c40;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 3px 0;
+    display: block;
+}
+
+.nav-sublist__link.active,
+.nav-sublist__link:hover {
+    color: #74bf44;
 }
 
 /*brands-------------------------------*/
