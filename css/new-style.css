@@ -715,6 +715,16 @@ ul.nav-sublist {
     box-sizing: border-box;
 }
 
+#content .right-column .product-category-title {
+    color: #3b3a40;
+    font-size: 21px;
+    font-family: 'BlissProRegular', sans-serif;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+    padding: 0;
+    font-weight: 700;
+}
+
 .product-btn {
     display: block;
     color: #ffffff;
